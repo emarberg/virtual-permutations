@@ -9,7 +9,7 @@ INVOLUTION_WORDS_CACHE = {}
 class AffinePermutation:
 
     """
-    Simple class implementing affine permutations.
+    Simple class implementing affine permutations, primarily used for testing.
     """
 
     def __init__(self, *oneline):
