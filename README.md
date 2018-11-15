@@ -1,6 +1,6 @@
 # virtual-permutations
 
-Python project for calculations involving affine and virtual permutations
+Small Python project for computations involving affine and virtual permutations
 
 ## Setup
 1. Install Python 3
