@@ -1,4 +1,4 @@
-# virtual-permutations
+# Virtual Permutations
 
 Small Python project for computations involving affine and virtual permutations
 
