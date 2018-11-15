@@ -1,7 +1,7 @@
 import itertools
 
 
-class VirtualInvolution:
+class VirtualInvolution(object):
 
     """
     Simple class implementing involutions of {1, 2, ..., m} are related methods
@@ -258,7 +258,7 @@ class VirtualInvolution:
                         yield VirtualInvolution(*weak_cycles)
 
 
-class VirtualPermutation:
+class VirtualPermutation(object):
 
     """
     Class implementing VirtualPermutation objects as defined in Section 5.2 of corresponding paper.

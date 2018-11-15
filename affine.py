@@ -6,7 +6,7 @@ REDUCED_WORDS_CACHE = {}
 INVOLUTION_WORDS_CACHE = {}
 
 
-class AffinePermutation:
+class AffinePermutation(object):
 
     """
     Simple class implementing affine permutations, primarily used for testing.
