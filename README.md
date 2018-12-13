@@ -1,6 +1,8 @@
 # Virtual Permutations
 
-Small Python project for computations involving affine and virtual permutations
+Small Python project for computations involving affine and virtual permutations, as expained in the paper "Affine transitions for involution Stanley symmetric functions" which is available online at
+
+https://arxiv.org/abs/1812.04880.
 
 ## Setup
 1. Install Python 3
