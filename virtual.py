@@ -4,7 +4,7 @@ import itertools
 class VirtualInvolution(object):
 
     """
-    Simple class implementing involutions of {1, 2, ..., m} are related methods
+    Simple class implementing involutions of {1, 2, ..., m} and related methods
     for use in checking covering and toggling properties.
     """
 
