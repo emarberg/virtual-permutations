@@ -1,6 +1,6 @@
 # Virtual Permutations
 
-Python project for computations involving affine and virtual permutations, as expained in the preprint "Affine transitions for involution Stanley symmetric functions" which is available online at https://arxiv.org/abs/1812.04880. 
+Python project for computations involving affine and virtual permutations, as explained in the preprint "Affine transitions for involution Stanley symmetric functions" which is available online at https://arxiv.org/abs/1812.04880. 
 
 The main results in the linked article rely on two technical theorems about the Bruhat order on affine involutions, which we refer to as the "Covering Property" (see Theorem 4.8) and the "Toggling Property" (see Theorem 4.10). Our proofs of these
 results depend on computer calculations that were carried using the code in this repository.
